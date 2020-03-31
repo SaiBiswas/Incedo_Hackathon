@@ -1,3 +1,1 @@
-# Incedo_Hackathon
-#Repo on the working of the Hackathon
-Some Visualization performed on the Incedo Hackathon Data
+A repository on the visualizations done for the Incedo data Hackathon.
